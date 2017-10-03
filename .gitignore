@@ -31,3 +31,8 @@
 *.out
 *.app
 ./server
+.vscode
+
+# Test folder
+test/
+event_based/
